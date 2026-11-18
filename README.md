@@ -63,6 +63,7 @@ I'm a full-cycle developer based remotely in the UK with over 10 years of profes
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [claude-experiments](https://github.com/elhdrond/claude-experiments) | Personal learning repo: AI-assisted dev workflows, Spec Driven Development and Clean Architecture experiments | Python · Git · Claude AI |
+| [tutor-personal](https://github.com/elhdrond/tutor-personal) | Socratic programming tutor built on Claude Code — connects to any course repo and teaches without giving away answers | Claude AI · Markdown |
 | 🔧 *More coming soon* | Web & data management applications | PHP · .NET · MySQL |
 
 ---
