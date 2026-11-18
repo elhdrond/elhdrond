@@ -68,6 +68,16 @@ I'm a full-cycle developer based remotely in the UK with over 10 years of profes
 
 ---
 
+## 📚 Learning & Practice
+
+| Repository | Description |
+|------------|-------------|
+| [roadmap-retos-programacion](https://github.com/elhdrond/roadmap-retos-programacion) | Weekly programming challenges by @mouredev — solving in Python |
+| [hello-git](https://github.com/elhdrond/hello-git) | Git & GitHub course by @mouredev |
+| [hello-bash-shell](https://github.com/elhdrond/hello-bash-shell) | Bash & Shell scripting course by @mouredev |
+
+---
+
 ## 📬 Contact
 
 Feel free to reach out for collaboration, consulting or just a chat about tech:
