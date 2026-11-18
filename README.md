@@ -33,48 +33,37 @@ I'm a full-cycle developer based remotely in the UK with over 10 years of profes
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/></a>
+<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/></a>
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
 
 **Tools & AI**
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AI Development](https://img.shields.io/badge/AI_Development-412991?style=flat&logo=openai&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elhdrond&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhdrond&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages"/>
-</p>
+<a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/AI_Development-412991?style=flat&logo=openai&logoColor=white" alt="AI Development"/></a>
 
 ---
 
 ## 🚀 Featured Projects
 
-> _Coming soon — currently setting up my portfolio of projects._
-
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔧 *Work in progress* | Web & data management applications | PHP · .NET · MySQL |
-| 🤖 *AI experiments* | Exploring AI-powered tools & automation | Python · APIs |
+| [claude-experiments](https://github.com/elhdrond/claude-experiments) | Personal learning repo: AI-assisted dev workflows, Spec Driven Development and Clean Architecture experiments | Python · Git · Claude AI |
+| 🔧 *More coming soon* | Web & data management applications | PHP · .NET · MySQL |
 
 ---
 
